@@ -12,6 +12,8 @@ reconnaissance exercises, and penetration-testing labs.
 - [Deep Into My Heart](./WriteUps/Try_Hack_Me/Deep-Into-My-Heart.pdf)
 - [Linux Fundamentals Part 1](./WriteUps/Try_Hack_Me/Linux_Fundamentals_Part_1.pdf)
 - [Search Skills](./WriteUps/Try_Hack_Me/Search-Skills-Writeup.pdf)
+- [Blue](./WriteUps/Try_Hack_Me/Blue_THM_Writeup.pdf)
+- [Kenobi](./WriteUps/Try_Hack_Me/Kenobi_THM_Writeup.pdf)
 
 ### 🔎 Reconnaissance
 - [Basic Reconnaissance](./WriteUps/Reconnaissance/Basic_Reconnaissance_Practical_Report.pdf)
